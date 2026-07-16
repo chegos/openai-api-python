@@ -137,3 +137,4 @@ A estrutura do projeto permanece praticamente a mesma, alterando apenas a biblio
 **Luis Fernando de Oliveira Rodrigues**
 
 GitHub: https://github.com/chegos
+https://roadmap.sh/projects/openai-api-python
